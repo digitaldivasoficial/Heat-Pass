@@ -4,6 +4,11 @@ O projeto consiste em criar um sistema que abre portas a partir da proximidade d
 
 Ele foi desenvolvido para a disciplina de Microcontroladores e IOT da FMU, sob orientação do professor Ivair Lima.
 
+## Protótipo
+O protótipo deste projeto foi feito na ferramenta case Tinkercad, conforme a imagem abaixo:
+
+![Projeto-Tinkercad](img/projeto-tinkercad.PNG)
+
 ## Links
 - [Tinkercad](https://www.tinkercad.com/things/880Dx1P7ynV-copy-of-sensor-de-aproximacao-com-lcd-e-led/editel?sharecode=45ZU2QiLxo_lKpkJhTJuz9j-0QPIzbvmjmSOyq1FMNI)
 - [Documentação](https://docs.google.com/document/d/1MCjGyiOKF7In6CFs9YeeVNhWGPqsgKxUGwH93IQAXG4/edit?usp=sharing)
