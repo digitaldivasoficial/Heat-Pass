@@ -2,6 +2,8 @@
 
 O projeto consiste em criar um sistema que abre portas a partir da proximidade das pessoas e garante que a temperatura do ambiente esteja ideal. A interação com o sistema é intuitiva e simplificada para os usuários. Ao se aproximarem da porta, eles são detectados pelo sistema, que verifica simultaneamente a temperatura ambiente. Caso as condições sejam favoráveis, a porta é automaticamente desbloqueada, permitindo o acesso. Caso contrário, o sistema permanece seguro, evitando a abertura da porta.
 
+O nome do projeto é “Heat Pass” que significa “Passagem de Calor”, o que transmite o intuito principal do projeto: gerar um sistema que abre portas a partir da proximidade das pessoas e que não permite que o ambiente esteja quente ou frio de mais. 
+
 Ele foi desenvolvido para a disciplina de Microcontroladores e IOT da FMU, sob orientação do professor Ivair Lima.
 
 ## Protótipo
