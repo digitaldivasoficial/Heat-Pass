@@ -18,4 +18,4 @@ O protótipo deste projeto foi feito na ferramenta case Tinkercad, conforme a im
 
 ## Autores
 - [@annaagabi](https://www.github.com/annaagabi)
-- [@natalia](https://www.github.com/natalia)
+- [@natalia](https://www.github.com/nataliascruz)
