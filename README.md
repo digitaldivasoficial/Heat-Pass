@@ -15,6 +15,7 @@ O protótipo deste projeto foi feito na ferramenta case Tinkercad, conforme a im
 - [Tinkercad](https://www.tinkercad.com/things/880Dx1P7ynV-copy-of-sensor-de-aproximacao-com-lcd-e-led/editel?sharecode=45ZU2QiLxo_lKpkJhTJuz9j-0QPIzbvmjmSOyq1FMNI)
 - [Documentação](https://docs.google.com/document/d/198Q0f_WQOiTv9q8vIxJLoJf29pa0qkEY/edit?usp=sharing&ouid=111490485578439967102&rtpof=true&sd=true)
 - [Apresentação](https://docs.google.com/presentation/d/1Qk1zrGR-T2nKejNFoJNVrasPRKcJMB4dQI4xfYsxDbQ/edit?usp=sharing)
+
 -[Youtube](https://youtu.be/hKYlHHShXXg?si=LN5gz5kV9BWuEl5E)
 
 ## Autores
